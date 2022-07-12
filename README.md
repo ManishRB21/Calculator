@@ -1,6 +1,6 @@
 # Calculator
 Calculator website
--Make a new folder called Calculator on your Desktop
+- Make a new folder called Calculator on your Desktop
 -Change Directory to this new folder
 -Inside the Calculator folder, create a new file called calculator.js
 -Set up a new NPM package
